@@ -7,3 +7,5 @@ Aqui a gente se comunica editando esse README 😄" > README.md
 opaa higor
 
 seu viadinho bosta
+
+epaaaa adriano seu viadao
